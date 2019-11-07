@@ -1,0 +1,2 @@
+rootProject.name='KnightApp'
+include ':app'
